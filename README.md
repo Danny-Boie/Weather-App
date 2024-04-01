@@ -1,5 +1,5 @@
-#Weather App UI
-####Thanks to **Sean Allen** & their course on YouTube linked below
+# Weather App UI
+#### Thanks to **Sean Allen** & their course on YouTube linked below
 ---
 
 Concepts learned/cemented understanding in this app:
